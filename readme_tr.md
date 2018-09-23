@@ -9,12 +9,16 @@
 ### Binance Pump Botu (P&D)
 ![](https://image.ibb.co/hwBaRe/ornek.png)
 * Bu botu kullanmadan Binance üzerinde yapılan pump'lara kesinlikle girmeyin. 
+
 ### Binance Listing Botu
 ![](https://image.ibb.co/bFtKKz/binance_new_listings.jpg)
 * Binance'a yeni eklenen altcoinlerden, düzenlenen yarısmalardan (giveaways) ve buna benzer duyurulardan çok iyi kârlar elde edebilirsiniz. Binance listing botunu açık bırakın haberler eklenir eklenmez sizin için altcoini otomatik olarak alsın. Take-profit ve buna benzer ayarları önceden kaydederseniz kâr elde etmek için bilgisayarın başında olmanıza dahi gerek kalmaz. 
 
 # Kurulum  
-* [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) indirin ve bilgisayarınıza yükleyin. 
+* [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) indirin ve bilgisayarınıza yükleyin. (Yükleme esnasında resimdeki gibi Python'u sistem yoluna eklenmesi için işaretleyin.)
+<img align="middle" width="400" src="https://image.ibb.co/n95BK9/add_python_to_system_path.png"> 
+
+
 * Daha sonra aşağıdaki komutu girin. 
 ```
 pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
