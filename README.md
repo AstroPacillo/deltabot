@@ -15,6 +15,9 @@ Place the buy orders under 1 second even to 0.2 second (with fast connections).
 
 # Installation  
 * Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe)
+![](https://image.ibb.co/n95BK9/add_python_to_system_path.png)
+(Dont forget to check adding python to system path)
+
 * Run the command below to install the requirements
 ```
 pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
