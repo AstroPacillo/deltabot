@@ -41,5 +41,12 @@ pip install pynput requests ccxt==1.16.59 cryptography ws4py bs4
 Tüm ayarlamalarınızı tek bir dosyadan yönetin.
   
   
+  
+ # Pro Version 
+ Pro versionda normal sürüme göre emirler 1 saniye daha hızlı girilebilir.  
+ http://bit.ly/DeltaBotPro
+ 
+ 
+
 
 
