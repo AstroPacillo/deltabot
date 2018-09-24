@@ -39,5 +39,9 @@ So it uses cython, core modules, powerfull caching system and much more optimiza
 ### ⚙️Easy configuration 
 * Set up all the settings with a single file. 
   
-  
+ # Pro Version 
+ Pro version has 1 second advantage during orders. 
+ http://bit.ly/DeltaBotPro
+ 
+ 
 
