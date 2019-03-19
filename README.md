@@ -15,7 +15,7 @@ Place the buy orders under 1 second even to 0.2 second (with fast connections).
 * Your order will be placed before announced on https://t.me/binance_announcements. 
 
 # Installation  
-* Install [Python 3.6.5 (32bit)](https://www.python.org/ftp/python/3.6.5/python-3.6.5.exe) (Check "add the python to system path" before install.)
+* Install [Python 3.7.2](https://www.python.org/ftp/python/3.7.2/python-3.7.2.exe) (Check "add the python to system path" before install.)
 <img align="middle" width="400" src="https://image.ibb.co/n95BK9/add_python_to_system_path.png"> 
 
 * Run the command below to install the requirements
