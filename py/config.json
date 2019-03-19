@@ -19,28 +19,28 @@
         "api_secret": "api_secret",
         "target_coin": "BTC",
         "use_balance": "%90",
-        "trade_with_real_account": "True"
+        "trade_with_real_account": "False"
     },
     "buy_with_okex": {
         "api_key": "api_key",
         "api_secret": "api_secret",
         "target_coin": "BTC",
         "use_balance": "%90",
-        "trade_with_real_account": "True"
+        "trade_with_real_account": "False"
     },
     "buy_with_bittrex": {
         "api_key": "api_key",
         "api_secret": "api_secret",
         "target_coin": "BTC",
         "use_balance": "%90",
-        "trade_with_real_account": "True"
+        "trade_with_real_account": "False"
     },
     "buy_with_kucoin": {
         "api_key": "api_key",
         "api_secret": "api_secret",
         "target_coin": "BTC",
         "use_balance": "%90",
-        "trade_with_real_account": "True"
+        "trade_with_real_account": "False"
     },
     "listings": {
         "i_couldnt_buy_new_altcoin_buy_it_yourself": "True"
