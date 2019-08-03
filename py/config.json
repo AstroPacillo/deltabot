@@ -4,21 +4,21 @@
         "licence_code": "demo"
     },
     "binance_pumps": {
-        "api_key": "api_key",
-        "api_secret": "api_secret",
-        "target_coin": "BTC",
-        "use_balance": "%5",
-        "take_profit": "%25",
+        "api_key": "VN0o9Ec0Scah70h7XkMPq4cTTWAScZQfSK6qvVVjZfT5Zzm1lPFpgU0J26gyRfjf",
+        "api_secret": "0igWHi2DqRv1JLAwyq2Gdj6q1VGDl2F2vJ4Ydob66Lys1hBRdMeJdt4MCfdkprcF",
+        "target_coin": "REN",
+        "use_balance": "%95",
+        "take_profit": "%10",
         "stop_loss": "-%5",
         "order_type": "market",
         "limit_order_dont_buy_after_increase": "%20",
         "trade_with_real_account": "False"
     },
     "buy_with_binance": {
-        "api_key": "api_key",
-        "api_secret": "api_secret",
-        "target_coin": "BTC",
-        "use_balance": "%90",
+        "api_key": "VN0o9Ec0Scah70h7XkMPq4cTTWAScZQfSK6qvVVjZfT5Zzm1lPFpgU0J26gyRfjf",
+        "api_secret": "0igWHi2DqRv1JLAwyq2Gdj6q1VGDl2F2vJ4Ydob66Lys1hBRdMeJdt4MCfdkprcF",
+        "target_coin": "REN",
+        "use_balance": "%95",
         "trade_with_real_account": "False"
     },
     "buy_with_okex": {
